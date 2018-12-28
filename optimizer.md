@@ -6,3 +6,5 @@
 
 
 ## Gracias por ser parte de Python para Trading.
+
+# POR FAVOR NO DIGAS NADA DE ESTA BROMA, PARA NO ESTROPEAR LA "SORPRESA" A OTROS. GRACIAS
